@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Science, Computer Vision, Natural Language Processing**
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/ozanguneyli)
-- 📫 Reach me at: **ozanyerli@outlook.com**
+- 📫 Reach me at: **ozanguneyli@outlook.com**
 
 ---
 
