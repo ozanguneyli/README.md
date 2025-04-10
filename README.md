@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">AI & Data Enthusiast | Python Developer</h3>
+<h3 align="center">Data Scitentist | AI Developer | Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Science, Computer Vision, Natural Language Processing**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/ozanguneyli)
 - 📫 Reach me at: **ozanguneyli@outlook.com**
 
 ---
